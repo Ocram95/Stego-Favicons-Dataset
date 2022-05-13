@@ -1,6 +1,6 @@
 # Stego-Favicons-Dataset
 
-This repository contains 2 dataset of 32x32 pixels favicons/images modified via the LSB steganographic technique to contain different malicious payloads, i.e., PHP scripts and URLS. 
+This repository contains 2 datasets of 32x32 pixels favicons/images modified via the LSB steganographic technique to contain different malicious payloads, i.e., PHP scripts and URLS. 
 The payloads are selected to fit in the first bit of each color channel, i.e., max 32x32x3 bits.  
  
 
