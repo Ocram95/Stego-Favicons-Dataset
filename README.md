@@ -15,6 +15,7 @@ In particular:
 	- clean: 60.000 legitimate images from the CIFAR-10 dataset;
 	- LSB_stego_php: 60.000 images embedded with suitable PHP scripts (obtained by combining each legitimate image with 1 PHP script);
 	- LSB_stego_url: 240.000 images embedded with URLs (obtained by combining each legitimate image with 4 different URLs).
+
 The PHP scripts pool is composed of 28 different scripts whereas the URLs are 1.000, split into 500 IP addresses and 500 DNS entries.
 
 - Dataset2: 90.000 images.
@@ -22,6 +23,8 @@ The PHP scripts pool is composed of 28 different scripts whereas the URLs are 1.
 	- LSB_stego_php_b64: 15.000 images embedded with suitable base-64 PHP scripts (obtained by combining each legitimate image with 1 base-64 PHP script);
 	- LSB_stego_url: 60.000 images embedded with unseen URLs (obtained by combining each legitimate image with 4 different URLs).
 
+
+The base-64 PHP scripts pool is composed of 21 different scripts whereas the URLs are 1.000, split into 500 IP addresses and 500 DNS entries.
 # Detection
 A Deep Learning approach has been implemented for the detection and the classification of the Stego-Favicons-Dataset. You can find more information in the respective [Github repository](https://github.com/massimo-guarascio/FaviconStegoDetection).
 
