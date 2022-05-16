@@ -32,4 +32,4 @@ A Deep Learning approach has been implemented for the detection and the classifi
 Soon
 
 # Acknowledgements 
-This work was partially supported by the Horizon 2020 Program through [SIMARGL] (https://simargl.eu/) H2020-SU-ICT-01-2018, Grant Agreement No. 833042, and [CyberSec4Europe] (https://cybersec4europe.eu/), EU  H2020-SU-ICT-03-2018, Grant Agreement No. 830929.
+This work was partially supported by the Horizon 2020 Program through [SIMARGL](https://simargl.eu/) H2020-SU-ICT-01-2018, Grant Agreement No. 833042, and [CyberSec4Europe](https://cybersec4europe.eu/), EU  H2020-SU-ICT-03-2018, Grant Agreement No. 830929.
