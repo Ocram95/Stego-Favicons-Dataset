@@ -29,7 +29,16 @@ The base-64 PHP scripts pool is composed of 21 different scripts whereas the URL
 A Deep Learning approach has been implemented for the detection and the classification of the Stego-Favicons-Dataset. You can find more information in the respective [Github repository](https://github.com/massimo-guarascio/FaviconStegoDetection).
 
 # References
-Soon
+If you use this dataset, please cite it as:
+
+@inproceedings{fav,  
+  title={Revealing MageCart-like threats in favicons via artificial intelligence},  
+  author={Guarascio, Massimo and Zuppelli, Marco and Cassavia, Nunziato and Caviglione, Luca and Manco, Giuseppe},  
+  booktitle={Proceedings of the 17th International Conference on Availability, Reliability and Security},  
+  pages={1--7},  
+  year={2022}  
+}  
+(https://dl.acm.org/doi/pdf/10.1145/3538969.3544437)
 
 # Acknowledgements 
 This work was partially supported by the Horizon 2020 Program through [SIMARGL](https://simargl.eu/) H2020-SU-ICT-01-2018, Grant Agreement No. 833042, and [CyberSec4Europe](https://cybersec4europe.eu/), EU  H2020-SU-ICT-03-2018, Grant Agreement No. 830929.
